@@ -16,16 +16,6 @@ Criar uma **plataforma web completa**, com design responsivo, boa experiência d
 
 ### **Front-end**
 - Estruturação de páginas com **HTML5** semântico
-- Estilização e responsividade com **CSS3** (Flexbox/Grid)
+- Estilização e responsividade
 - Interatividade com **JavaScript**
 - Boas práticas de **UX/UI**
-
-### **Back-end**
-- Criação e integração de **APIs REST**
-- Conexão e manipulação de **banco de dados**
-- Autenticação e autorização de usuários
-- Otimização de performance e segurança
-
----
-
-## 📂 Estrutura Atual do MVP
