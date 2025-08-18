@@ -2,7 +2,7 @@
 
 > **Status do Projeto:** 🚧 Em andamento – buscando colaboradores para acelerar o desenvolvimento.
 
-Estamos desenvolvendo um **MVP (Minimum Viable Product)** e as  **contribuições em todas as etapas de Front-end** para transformá-lo em um produto funcional, escalável e pronto para testes com usuários reais.
+Estamos desenvolvendo um **MVP (Minimum Viable Product)** e as  **contribuições em todas as etapas de Front-end** para transformá-lo em um produto funcional, escalável e pronto para apresentações reais.
 
 ---
 
