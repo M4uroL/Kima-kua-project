@@ -16790,17 +16790,31 @@ ul {
   color: var(--bs-dark);
   background-color: var(--bs-white);
 }
-.logo-white{
-  position: absolute;
-  top: 5px;
-  left: 5px;
-  width: 13%;
-  height: 13%;
-}
-.logo-dark{
-  position: absolute;
-  top: 5px;
-  left: 5px;
-  width: 10%;
-  height: 10%;
-}
+  .logo-white{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 13%;
+    height: 13%;
+  }
+  .logo-dark{
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 8%;
+    height: 8%;
+  }
+
+  #f1{
+    position: absolute;
+    margin: 0 auto;
+    width: 20%;
+    height: 20%;
+  }
+#p1{
+
+  }
+ #p1:hover{
+    box-shadow: 3px 3px 3px;
+    }
+   
